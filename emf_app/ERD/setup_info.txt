@@ -1,0 +1,35 @@
+Setup instruction
+
+Connect your database to: finance_bd from CLI
+Copy all the files from github repository and follow the tree below to set up the folder
+.
+├── ERD
+│   ├── Initial_ERD.jpg
+│   ├── setup_info.txt
+│   └── ustory.txt
+├── Gemfile
+├── Gemfile.lock
+├── app.rb
+├── db
+│   ├── connection.rb
+│   ├── schema.sql
+│   └── seed.rb
+├── lib
+│   ├── account.rb
+│   └── transection.rb
+└── spec
+    ├── account_spec.rb
+    └── spec_helper.rb
+ 
+
+
+Required: 
+Connect to finance_db database.
+
+GEM need to be installed 
+
+Can only be executed from CLI by typying: ruby app.rb
+
+
+
+

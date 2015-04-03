@@ -1,0 +1,18 @@
+User Story: 
+Deliverable to Elon Musk Finance (here after know as EMF)for teller service at retail location.
+
+Priority 	The EMF app need to: 
+1		1.Display Real-time up to date transection of EMF members 
+2		2.Display initial balance by user
+3		3.Display EMF account name list
+4		4.Display EMF account id
+5		5.Open account and save to database
+6		6.Close account and save to satabase
+7		7.Delete a transection for the system if there is a mistake and save
+8		8.The day ending balance at EMF after all transection
+9		9.Select form a menue
+1		10.Put user input at specific point
+1		11.Save input 
+1		12.User friendly appearance 
+1		13.auto save at exit
+1		14.Need to be able to exit out of the app    
